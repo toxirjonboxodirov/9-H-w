@@ -1,0 +1,143 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #151515;
+}
+
+.L {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FF8C42;
+}
+.L .l1 {
+  position: absolute;
+  width: 139px;
+  height: 41px;
+  left: 406px;
+  top: 52px;
+}
+.L .l2 {
+  position: absolute;
+  width: 138px;
+  height: 41px;
+  left: 580px;
+  top: 52px;
+}
+.L .l3 {
+  position: absolute;
+  width: 347px;
+  height: 41px;
+  left: 753px;
+  top: 52px;
+}
+.L .l4 {
+  position: absolute;
+  width: 194px;
+  height: 41px;
+  left: 1135px;
+  top: 52px;
+}
+.L .l {
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+  position: absolute;
+  width: 174.86px;
+  height: 59px;
+  left: 147.14px;
+  top: 43px;
+}
+.L .ll {
+  position: absolute;
+  left: 7.34%;
+  right: 90.26%;
+  top: 50px;
+}
+
+.bigsec {
+  position: absolute;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+}
+.bigsec .sec {
+  position: absolute;
+  width: 562px;
+  height: 100px;
+  left: 70px;
+  top: 250px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 96px;
+  line-height: 100px;
+  color: #FF8C42;
+}
+.bigsec .sec2 {
+  position: absolute;
+  width: 379px;
+  height: 70px;
+  left: 84px;
+  top: 400px;
+  bottom: 400px;
+  font-size: 36px;
+  line-height: 45px;
+  display: flex;
+  text-align: flex-end;
+  text-transform: capitalize;
+  color: #FF8C42;
+}
+.bigsec .secimg {
+  position: absolute;
+  left: 600px;
+  right: 12.27%;
+  top: 200px;
+  bottom: 300px;
+  height: 400px;
+  width: 500px;
+  display: flex;
+}
+.bigsec .fm {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  line-height: 25px;
+  font-family: "Quicksand";
+  font-style: normal;
+  color: #FF8C42;
+  width: 198px;
+  height: 48px;
+  left: 100px;
+  top: 550px;
+}
+.bigsec .btn {
+  position: absolute;
+  width: 120px;
+  height: 50px;
+  left: 100px;
+  top: 650px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  background-color: #FF8C42;
+}/*# sourceMappingURL=style.css.map */
